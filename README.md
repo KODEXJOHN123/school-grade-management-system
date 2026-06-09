@@ -84,4 +84,4 @@ This project reflects:
 
 ## Repository
 
-https://github.com/KODEXJOHN123/scoreguard-student-grade-system
+[https://github.com/KODEXJOHN123/scoreguard-student-grade-system](https://github.com/KODEXJOHN123/school-grade-management-system.git)
